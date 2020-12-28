@@ -1,0 +1,10 @@
+2020-12-22 18:35:01,628 - DEBUG -  testhome[line:12] - 销售数据-部门数据查询
+2020-12-22 18:36:49,058 - DEBUG -  testhome[line:26] - 销售数据-趋势图接口异常:
+2020-12-22 18:37:21,335 - ERROR -  testhome[line:26] - 销售数据-趋势图接口异常
+2020-12-22 18:39:59,316 - ERROR -  testhome[line:26] - 销售数据-趋势图接口异常
+2020-12-22 18:39:59,316 - ERROR -  testhome[line:27] - list index out of range
+2020-12-22 18:45:44,033 - DEBUG -  testhome[line:11] - 调用销售数据-部门数据查询接口
+2020-12-22 18:45:44,114 - DEBUG -  testhome[line:20] - 调用销售数据-部门趋势图接口
+2020-12-22 18:45:44,115 - ERROR -  testhome[line:26] - list index out of range
+2020-12-22 18:45:44,116 - DEBUG -  testhome[line:29] - 调用销售数据-sku明细接口
+2020-12-22 18:45:44,116 - ERROR -  testhome[line:35] - list index out of range
